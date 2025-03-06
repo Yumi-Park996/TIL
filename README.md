@@ -1,7 +1,3 @@
-# TIL
+주인닮은-ChatGPT.png
 
-## ⭐오늘 배운 것⭐
-
-### 이 페이지는 지극히 저의 지식을 채우기 위해 만들어졌습니다.
-
-### 개념 항목만 참고하시고 Chat GPT에 물어보는 것을 추천합니다.
+![image](https://github.com/user-attachments/assets/17f31aa0-e39a-4d0b-b959-faa8c26832f1)
